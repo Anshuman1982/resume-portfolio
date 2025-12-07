@@ -299,6 +299,6 @@ export const socialLinks: Social[] = [
   {
     label: 'LinkedIn',
     Icon: LinkedInIcon,
-    href: 'www.linkedin.com/in/anshuman-banjara-9a7640290',
+    href: 'https://www.linkedin.com/in/anshuman-banjara-9a7640290/',
   },
 ];
